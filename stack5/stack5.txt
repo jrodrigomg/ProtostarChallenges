@@ -1,0 +1,3 @@
+run it!
+(python exploit.py ; cat) | /opt/protostar/bin/stack5 
+
