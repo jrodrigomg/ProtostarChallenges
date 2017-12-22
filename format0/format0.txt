@@ -1,0 +1,4 @@
+#run it!
+
+./format0 `python ~/exp.py`
+
