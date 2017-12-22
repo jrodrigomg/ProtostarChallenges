@@ -1,0 +1,2 @@
+#run it!
+python ~/exploit.py | ./format2
