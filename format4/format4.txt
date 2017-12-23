@@ -1,0 +1,2 @@
+#run int!
+python exploit.py | /opt/protostar/bin/format4 
